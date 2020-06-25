@@ -1,0 +1,46 @@
+﻿
+
+
+.body {
+  background-color:green;
+  margin-left:8px;
+  text-align:center;  
+}
+.nav-menu {
+
+display:inline-block;
+border-bottom:1px solid black;
+list-style-type:none;
+text-decoration:none;
+margin:0px;
+padding:10px;
+border-top:2px solid black;
+
+}
+.search-box {
+
+border-bottom-color:blue;
+}
+
+
+
+.h1{
+font-size:48px;
+text-align: center;
+font-weight:bold;
+font-family: Arial,Sans-Seriff;
+}
+.p{
+    margin-top:20px;
+   font-size:44px;
+    text-align:center;
+   }
+.button{
+    background-color: blue;
+    padding:10px 24px;
+    text-align:center;
+    display:inline-block;
+    font-size: 18px;
+    margin:0 auto;
+    align-content:center;
+    }
